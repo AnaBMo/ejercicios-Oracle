@@ -10,10 +10,12 @@ En este proyecto se incluyen:
 - **Procedimientos almacenados y funciones** para mejorar la gestión de datos.
 - **Consultas avanzadas** con SQL.
 - **Vistas e índices** para optimización del rendimiento.
+- **Cursores en PL/SQL** para el manejo de conjuntos de datos.
+
 
 ## Próximos pasos
 
-- Profundizar en **PL/SQL** para crear paquetes y cursores.
+- Profundizar en **PL/SQL** para crear paquetes más avanzados.
 - Explorar técnicas de optimización de consultas.
 - Implementar **triggers más avanzados** con lógica compleja.
 
